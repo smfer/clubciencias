@@ -69,7 +69,7 @@ app.post("/complete_order", async (req, res) => {
 connect(io);
 
 Conexion().then(() => {
-  httpserver.listen(Number(PORT),"192.168.0.190", () => {
+  httpserver.listen(PORT, () => {
     console.log("Servidor eschuchando ".concat(PORT.toString()));
   });
 });

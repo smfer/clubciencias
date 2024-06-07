@@ -1,0 +1,6 @@
+/* src/main.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Agrega tus estilos personalizados después de las importaciones de Tailwind CSS */

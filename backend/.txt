@@ -1,0 +1,33 @@
+Mejora el sistema de envio 
+usar constantes 
+hacer sistema de finanzas
+
+
+
+
+Crear Producto 
+Actualizar Producto
+Desactivar Producto
+
+Aceptar Pedido -> Esta accion asume que se pueden entregar los productos
+Preparar Pedido -> Prepara sirve para indicarle al alumno que ya Esta
+Confirmar Pedido -> Sirve cuando el alumno ya dio el dinero
+Cancelar Pedido 
+
+Top Productos
+Top Compradores
+Informe de venta
+Informe de Productos
+
+Crear Escuela
+Administrar Personal
+Administrar Escuela 
+Todo lo anterior 
+
+Token Alumno :{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2wiOiJBbHVtbm8iLCJpZCI6MSwiaWF0IjoxNzAzNjk0ODQ2fQ.0gil0ONywK5bC7-Ywf1nkrg626CB-_alNIR83P-kyYU"
+}
+
+Token Persoanl:{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2wiOiJQZXJzb25hbCIsImlkIjoxLCJpYXQiOjE3MDM2OTUwNTN9.wg-c_7bAitHlTbm_JJjP_5pISvCzSs5AWdkfpEu1M6k"
+}

@@ -1,0 +1,9 @@
+{
+    "restartable": "rs",
+    "ignore": ["/.git", "/node_modules", "/dist"],
+    "exec":" clear && npx tsc && node dist/",
+    "delay": "1000",
+    "watch": ["src"],
+    "ext": "ts json"
+  }
+  
